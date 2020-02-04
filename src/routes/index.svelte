@@ -33,14 +33,16 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>cecu</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Centro Empleados de Comercio Ushuaia</h1>
 
 <figure>
 	<img alt='Borat' src='great-success.png'>
-	<figcaption>HIGH FIVE!</figcaption>
+	<figcaption>Nos enfocamos en acompañar al trabajador!</figcaption>
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p><strong><a  title = "ggcon"  href = "http://ggcon.com.ar" >
+                   © 2020 por ggcon
+                </a></strong></p>
