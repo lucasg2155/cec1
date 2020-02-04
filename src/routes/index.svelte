@@ -36,11 +36,11 @@
 	<title>cecu</title>
 </svelte:head>
 
-<h1>Centro Empleados de Comercio Ushuaia</h1>
+<h1>centro empleados de comercio ushuaia</h1>
 
 <figure>
-	<img alt='Borat' src='great-success.png'>
+	<img alt='cecu' src='cecu.jpg'>
 	<figcaption>Nos enfocamos en acompañar al trabajador!</figcaption>
 </figure>
 
-<p><strong> Derechos Reservados © 2020 creado por <a  title = "ggcon"  href = "http://ggcon.com.ar">ggcon</a></strong></p>
+<p><strong> Derechos Reservados © 2020 creado por: <a  title = "ggcon"  href = "http://ggcon.com.ar">ggcon</a></strong></p>
