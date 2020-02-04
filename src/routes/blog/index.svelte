@@ -18,7 +18,7 @@
 </style>
 
 <svelte:head>
-	<title>Blog</title>
+	<title>noticias</title>
 </svelte:head>
 
 <h1>Últimas Noticias</h1>
