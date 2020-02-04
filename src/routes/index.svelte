@@ -43,4 +43,4 @@
 	<figcaption>Nos enfocamos en acompañar al trabajador!</figcaption>
 </figure>
 
-<p><strong> Derechos Reservados © 2020 creado por<a  title = "ggcon"  href = "http://ggcon.com.ar" >ggcon</a></strong></p>
+<p><strong> Derechos Reservados © 2020 creado por <a  title = "ggcon"  href = "http://ggcon.com.ar">ggcon</a></strong></p>
