@@ -37,9 +37,12 @@
 </svelte:head>
 
 <h1>centro empleados de comercio ushuaia</h1>
-
 <figure>
 	<img alt='logocecu' src='logocecu.jpg'>
+	<figcaption>cecu</figcaption>
+</figure>
+
+<figure>
 	<img alt='cecu' src='cecu.jpg'>
 	<figcaption>Nos enfocamos en acompañar al trabajador!</figcaption>
 </figure>
