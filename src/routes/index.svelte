@@ -39,12 +39,12 @@
 <h1>centro empleados de comercio ushuaia</h1>
 <figure>
 	<img alt='clinica' src='clinica.jpg'>
-	<figcaption>Sanatorio del CECU</figcaption>
+	<figcaption>Sanatorio CECU</figcaption>
 </figure>
 
 <figure>
 	<img alt='cecu' src='cecu.jpg'>
-	<figcaption>sede sindical ushuaia</figcaption>
+	<figcaption>Sede Sindical</figcaption>
 </figure>
 
 <p><strong> Derechos Reservados © 2020 creado por: <a  title = "ggcon"  href = "http://ggcon.com.ar">ggcon</a></strong></p>
