@@ -47,4 +47,10 @@
 	<figcaption>Sede Sindical</figcaption>
 </figure>
 
+<map>
+<div>
+iniciarMap();
+</div>
+</map>
+
 <p><strong> Derechos Reservados © 2020 creado por: <a  title = "ggcon"  href = "http://ggcon.com.ar">ggcon</a></strong></p>
