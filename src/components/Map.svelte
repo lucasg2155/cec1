@@ -14,13 +14,13 @@
     });
 }
 
-	// export let map;
+	 export let map;
 </script>
 
 <style>
-    /* map{
+    map{
 	height: 500px;
 	width: 100%;
-    } */
+    }
 </style>
 
