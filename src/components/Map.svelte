@@ -1,6 +1,6 @@
 <script>
 
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDaeWicvigtP9xPv919E-RNoxfvC-Hqik&callback=iniciarMap";
+ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDaeWicvigtP9xPv919E-RNoxfvC-Hqik&callback=iniciarMap";
 
  function iniciarMap(){
     var coord = {lat:-54.8065109 ,lng: -68.3141208};
@@ -14,7 +14,7 @@
     });
 }
 
-	// export let map;
+	export let map;
 </script>
 
 <style>
@@ -24,8 +24,3 @@
     }
 </style>
 
-<map>
-<div>
-iniciarMap();
-</div>
-</map>
