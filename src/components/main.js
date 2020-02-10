@@ -1,8 +1,14 @@
-import mapbox from 'mapbox-gl';
+import Index from './index.svelte';
 
-// https://docs.mapbox.com/help/glossary/access-token/
-mapbox.accessToken = MAPBOX_ACCESS_TOKEN;
+const app = new App({
+	target: document.body,
+	props: {
+		ready: false,
+	}
+});
 
-const key = {};
+window.initMap = function ready() {
+	app.$set({ ready: true });
+}
 
-export { mapbox, key };
+export default index;

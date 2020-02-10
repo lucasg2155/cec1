@@ -1,26 +1,16 @@
 <script>
 	import Map from '../components/Map.svelte';
-	export let ready;
-</script>
+	export let ready
 
-<svelte:head>
-	<script defer async
-	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDaeWicvigtP9xPv919E-RNoxfvC-Hqik&callback=iniciarMap">
-	</script>
-</svelte:head>
+	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDaeWicvigtP9xPv919E-RNoxfvC-Hqik&callback=iniciarMap";
+
+</script>;
 
 <style>
-:global(body) {
-	padding: 0;
-}
-</style>
 
-{ #if ready }
-<Map></Map>
-{ /if }
-
-
-<style>
+    :global(body) {
+	padding: 0
+	}
 	h1, figure, p {
 		text-align: center;
 		margin: 0 auto;
@@ -69,6 +59,8 @@
 	<figcaption>Sede Sindical</figcaption>
 </figure>
 
-
+{ #if ready }
+<Map></Map>
+{ /if }
 
 <p><strong> Derechos Reservados © 2020 creado por: <a  title = "ggcon"  href = "http://ggcon.com.ar">ggcon</a></strong></p>
