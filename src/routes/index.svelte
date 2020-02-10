@@ -1,10 +1,10 @@
-<script>
+<!-- <script>
 	import Map from '../components/Map.svelte';
 	export let ready
 
 	src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap";
 
-</script>;
+</script>; -->
 
 <style>
 
@@ -59,8 +59,8 @@
 	<figcaption>Sede Sindical</figcaption>
 </figure>
 
-{ #if ready }
+<!-- { #if ready }
 <Map></Map>
-{ /if }
+{ /if } -->
 
 <p><strong> Derechos Reservados © 2020 creado por: <a  title = "ggcon"  href = "http://ggcon.com.ar">ggcon</a></strong></p>
