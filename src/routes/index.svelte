@@ -8,9 +8,9 @@
 
 <style>
 
-    :global(body) {
+    /* :global(body) {
 	padding: 0
-	}
+	} */
 	h1, figure, p {
 		text-align: center;
 		margin: 0 auto;

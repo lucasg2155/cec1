@@ -19,8 +19,8 @@
 </script>
 <style>
 .full-screen {
-    width: 100vw;
-    height: 100vh;
+    width: 50vw;
+    height: 50vh;
 }
 </style>
 
