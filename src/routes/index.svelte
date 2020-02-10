@@ -2,7 +2,7 @@
 	import Map from '../components/Map.svelte';
 	export let ready
 
-	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDaeWicvigtP9xPv919E-RNoxfvC-Hqik&callback=initMap";
+	src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap";
 
 </script>;
 
